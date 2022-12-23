@@ -11,12 +11,13 @@ body {
 .wrapper {
     width: 1200px;
     display: flex;
+    flex-direction: column;
     margin: 0 auto;
     background-color: aquamarine;
 }
-.main {
+.main div {
     display: flex;
-    flex-flow: column;
+    flex-direction: row;
     width: 85%;
 }
 .menu {
