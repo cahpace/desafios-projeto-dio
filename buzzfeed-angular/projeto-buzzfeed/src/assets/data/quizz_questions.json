@@ -1,0 +1,53 @@
+{
+  "title":"Que estilo de pessoa você é: viajante ou caseira?",
+  "questions":[
+    {
+      "id":1,
+      "question": "Qual é sua programação favorita:",
+      "options":[
+        {"id": 1, "name":"Pipoca, série e sofá", "alias":"A"},
+        {"id": 2, "name":"Programar uma viagem", "alias":"B"},
+        {"id": 3, "name":"Ver vlogs de viagem", "alias":"B"},
+        {"id": 4, "name":"Pesquisar novos filmes nos catálogos de streamings", "alias":"A"},
+        {"id": 5, "name":"Passar a tarde lendo blogs de viagens", "alias":"B"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "Você prefere:",
+      "options":[
+        {"id": 1, "name":"Pegar o carro e sair por ai", "alias":"B"},
+        {"id": 2, "name":"Arrumar a casa para ter aquela sensação de aconchego", "alias":"A"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "Para você:",
+      "options":[
+        {"id": 1, "name":"O destino é o mais importante", "alias":"A"},
+        {"id": 2, "name":"A jornada é tão boa quanto chegar ao destino", "alias":"B"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "Seu sábado preferido é:",
+      "options":[
+        {"id": 1, "name":"Passar o dia com um sofá aconchegante, uma boa série e uma boa companhia", "alias":"A"},
+        {"id": 2, "name":"Pegar o carro, bike ou avião e sair para conhecer novos lugares", "alias":"B"},
+        {"id": 3, "name":"Ir conhecer aquele lugarzinho da sua cidade que você nunca foi", "alias":"B"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "Você gosta:",
+      "options":[
+        {"id": 1, "name":"Do desconhecido, de lugares novos", "alias":"B"},
+        {"id": 2, "name":"Do confortável, de lugares conhecidos", "alias":"A"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "Você é uma pessoa caseira!",
+    "B": "Você é um viajante por natureza!!"
+  }
+}
